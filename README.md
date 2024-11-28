@@ -22,5 +22,6 @@ Before you begin, ensure you have the following installed on your system:
    Open your terminal and run the following command to clone the project repository:
 
    ```bash
-   git clone https://github.com/yourusername/e-commerce-django.git
-   cd e-commerce-django
+   git clone https://github.com/kiokoEVA/API.git
+   
+   
